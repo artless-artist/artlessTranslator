@@ -5,3 +5,5 @@ __pycache__/
 models/
 llama.cpp/
 .vscode/
+
+translate_once.py
